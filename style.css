@@ -3,6 +3,14 @@
   padding: 0;
 }
 
+* a {
+  animation-timing-function: ease;
+}
+
+* a:hover {
+  opacity: 0.9;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
