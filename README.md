@@ -22,12 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./images/Screen Shot 2021-10-30 at 14.29.18.png)
+![Screenshot](/images/Screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/nobill1/order-summary-component-main)
-- Live Site URL: [Add live site URL here](https://order-summary-component-main-brown.vercel.app/)
+- Solution URL: [Repo](https://github.com/nobill1/order-summary-component-main)
+- Live Site URL: [Live](https://order-summary-component-main-brown.vercel.app/)
 
 ### Built with
 
